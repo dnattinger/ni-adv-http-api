@@ -18,7 +18,7 @@
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Is Path and Not Empty.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Is Path and Not Empty.vi"/>
 			</Item>
-			<Item Name="lvwebclient_32.dll" Type="Document" URL="../lvwebclient_32.dll"/>
+			<Item Name="lvwebclient_64.dll" Type="Document" URL="../lvwebclient_64.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
